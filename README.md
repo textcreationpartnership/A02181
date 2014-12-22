@@ -36,11 +36,37 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Paramythion tvvo treatises of the comforting of an afflicted conscience, written by M. Richard Green
+
 #####Body#####
-Paramythion tvvo treatises of the comforting of an afflicted conscience, written by M. Richard Green
+
+1. To the right worshipfull S. Drue Drurie Knight. H. C. wisheth increase of all heauenlie vertues.
+
+1. To the Reader.
+1 A large Treatise of the Sabboth.2 A Catechisme.3 A Treatise of contract4 Of the resurrection of th
+1. An Epigrame to the Reader.
+
+1. A MOST SVVEET Comfort for an afflicted Conscience.
+
+1. Another shorte Treatise belonging to the Comfort of an afflicted Conscience.
+
+1. Sweete and sure signes of Election, to them especially that are brought lowe.
+
+1. A letter from M. Richard Greeneham to a friend of his, M. M. against hardnes of heart.
+
+1. An other Comfortable Letter by Master R. G. to Master M.
+
+1. A letter consolatory written to a friende afflicted in Conscience, for sinne.
+
+1. A Sermon preached by M. Richard Greenham, vpon these wordes.
+
+1. The Seconde Sermon preached by M Richard Greenham.
+
+1. Certaine wise and graue Counsels and Answers, made by the same author, of the former argument.
+
 #####Back#####
-Paramythion tvvo treatises of the comforting of an afflicted conscience, written by M. Richard Green
+
+1. Faultes escaped.
+
 **Types of content**
 
   * There are 24 **verse** lines!
